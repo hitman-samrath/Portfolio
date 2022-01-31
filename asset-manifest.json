@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6e1f3feb.chunk.css",
-    "main.js": "/Portfolio/static/js/main.065ce939.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.065ce939.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.4776a853.chunk.css",
+    "main.js": "/Portfolio/static/js/main.bed8f7a1.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.bed8f7a1.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.fb0282b5.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.fb0282b5.js.map",
     "static/js/2.3f75b52f.chunk.js": "/Portfolio/static/js/2.3f75b52f.chunk.js",
     "static/js/2.3f75b52f.chunk.js.map": "/Portfolio/static/js/2.3f75b52f.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.6e1f3feb.chunk.css.map": "/Portfolio/static/css/main.6e1f3feb.chunk.css.map",
+    "static/css/main.4776a853.chunk.css.map": "/Portfolio/static/css/main.4776a853.chunk.css.map",
     "static/js/2.3f75b52f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.3f75b52f.chunk.js.LICENSE.txt",
     "static/media/BreakingBad.4a4c9054.png": "/Portfolio/static/media/BreakingBad.4a4c9054.png",
+    "static/media/Frontend-Developer CV.4e93703d.pdf": "/Portfolio/static/media/Frontend-Developer CV.4e93703d.pdf",
     "static/media/App.css": "/Portfolio/static/media/background image 1.2a0ef786.gif",
     "static/media/instagramclone.cf4d57da.png": "/Portfolio/static/media/instagramclone.cf4d57da.png",
     "static/media/internshipnow.447c3c60.jpg": "/Portfolio/static/media/internshipnow.447c3c60.jpg",
@@ -19,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.fb0282b5.js",
     "static/js/2.3f75b52f.chunk.js",
-    "static/css/main.6e1f3feb.chunk.css",
-    "static/js/main.065ce939.chunk.js"
+    "static/css/main.4776a853.chunk.css",
+    "static/js/main.bed8f7a1.chunk.js"
   ]
 }
