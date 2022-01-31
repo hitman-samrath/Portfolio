@@ -227,7 +227,7 @@ a {
 }
 
 .block2 {
-    padding: 5% 5%;
+    padding: 5%;
     background-color: #222;
     border: 1px solid #222;
     margin: auto 5%;
@@ -235,7 +235,7 @@ a {
 }
 
 .block2:hover {
-    padding: 5% 5%;
+    padding: 5%;
     background-color: rgb(73, 88, 255);
     border: 1px solid rgb(73, 88, 255);
     margin: auto 5%;
@@ -380,18 +380,21 @@ a {
     height: 100%;
     width: 100%;
     border-radius: 50%;
+    margin: auto;
 }
 
 .proj2 {
-    height: 94%;
-    width: 94%;
+    height: 88%;
+    width: 78%;
     border-radius: 50%;
+    margin: auto;
 }
 
 .proj3 {
     height: 97%;
     width: 97%;
     border-radius: 50%;
+    margin: auto;
 }
 
 .visit {
@@ -767,6 +770,17 @@ footer {
     /* Home Section*/
     .text1 {
         padding: 40% 0px 0px 6%;
+    }
+    .contact-content {
+        display: block;
+        margin: auto;
+    }
+    .column {
+        width: 80%;
+        margin: auto
+    }
+    .right {
+        margin-bottom: 40px;
     }
 }
 
